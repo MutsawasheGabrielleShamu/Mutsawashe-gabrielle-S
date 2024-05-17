@@ -7,3 +7,11 @@ Hi, I’m @Mutsawashe Gabrielle Shamu, but I also go by Gabrielle for short! I c
  <p> Cultivatiing ideas and turning a visualisation into reality increased my interest in wanting to know more about javascript and product management.
 
 ## Assignment 1 complete  ~~😭~~
+
+<li> i used six different Markdown text formatting features, demonstrated in **this ReadMe file**. </li>
+<li>Checked the status using git</li> 
+<li>Creating a branch and Added files to the branch</li>
+<li>Adding commits with meaningful messages</li>
+<li>Opening a pull request</li>
+<li>Merging and deploying to the main branch. </li>
+
