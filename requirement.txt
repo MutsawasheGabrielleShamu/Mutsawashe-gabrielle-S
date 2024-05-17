@@ -1,0 +1,1 @@
+requirements.txt is a file that contains a list of libraries/packages that are necessary when working on a project that can be installed within the file.
