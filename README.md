@@ -6,3 +6,4 @@ Hi, I’m @Mutsawashe Gabrielle Shamu, but I also go by Gabrielle for short! I c
 
  <p> Cultivatiing ideas and turning a visualisation into reality increased my interest in wanting to know more about javascript and product management.
 
+## Assignment 1 complete
