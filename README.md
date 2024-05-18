@@ -14,6 +14,10 @@ Hi, I’m @Mutsawashe Gabrielle Shamu, but I also go by Gabrielle for short! I c
 <li>Adding commits with meaningful messages</li>
 <li>Opening a pull request</li>
 <li>Merging and deploying to the main branch. </li>
+<img width="1440" alt="git remote add origin" src="https://github.com/MutsawasheGabrielleShamu/Mu![Uploading git push to add file to one of my branches.png…]()
+tsawashe-gabrielle-S/assets/169373462/13d0f160-7f35-4ee1-b5cc-d2bdd15299e5"><img width="1440" alt="created a branch for a potential pull request" src="https://github.com/MutsawasheGabrielleShamu/Mutsawashe-gabrielle-S/assets/169373462/3551c283-101f-442b-bee3-c28a6477af1e">
+<img width="1440" alt="cloning for pull request" src="https://github.com/MutsawasheGabrielleShamu/Mutsawashe-gabrielle-S/assets/169373462/70418fd8-c30f-4d8e-930c-d758b92d5e67">
+
 
 <img width="1440" alt="git add, init, status" src="https://github.com/MutsawasheGabrielleShamu<img width="1440" alt="created a branch for a potential pull request" src="https://github.com/MutsawasheGabrielleShamu/Mutsawashe-gabrielle-S/assets/169373462/9f117a14-0dfd-45a4-a4ec-d8b5329d148a">
 /Mutsawashe-gabrielle-S/assets/169373462/f5a62ca9-5037-464a-9659-0c2c377c9da7">
