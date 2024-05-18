@@ -18,7 +18,9 @@ Hi, I’m @Mutsawashe Gabrielle Shamu, but I also go by Gabrielle for short! I c
 
 
 <img width="1440" alt="created a branch for a potential pull request" src="https://github.com/MutsawasheGabrielleShamu/Mutsawashe-gabrielle-S/assets/169373462/3551c283-101f-442b-bee3-c28a6477af1e">
+<img width="1440" alt="git add, init, status" src="https://github.com/MutsawasheGabrielleShamu/Mutsawashe-gabrielle-S/assets/169373462/26327691-38ec-4bdc-8fdc-abb54e62135a">
 
+<img width="1440" alt="cloning for pull request" src="https://github.com/MutsawasheGabrielleShamu/Mutsawashe-gabrielle-S/assets/169373462/1c0e38f5-b95e-4453-827e-2345ba036a6d">
 
 <img width="1440" alt="created a branch for a potential pull request" src="https://github.com/MutsawasheGabrielleShamu/Mutsawashe-gabrielle-S/assets/169373462/9f117a14-0dfd-45a4-a4ec-d8b5329d148a">
 /Mutsawashe-gabrielle-S/assets/169373462/f5a62ca9-5037-464a-9659-0c2c377c9da7">
