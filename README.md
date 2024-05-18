@@ -13,7 +13,8 @@ Hi, I’m @Mutsawashe Gabrielle Shamu, but I also go by Gabrielle for short! I c
 <li>Creating a branch and Added files to the branch</li>
 <li>Adding commits with meaningful messages</li>
 <li>Opening a pull request</li>
-<li>Merging and deploying to the main branch. </li>
+<li>Merging to main branch. </li> 
+
 
 
 
